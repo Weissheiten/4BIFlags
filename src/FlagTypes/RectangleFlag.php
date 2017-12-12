@@ -1,8 +1,8 @@
 <?php
 
-namespace HTL3R\FlagStore\FlagTypes;
+namespace HTL3R\Flags\FlagTypes;
 
-use HTL3R\FlagStore\Interfaces\FlagInterface as FlagInterface;
+use HTL3R\Flags\Interfaces\FlagInterface as FlagInterface;
 
 /**
  * Class RectangleFlag

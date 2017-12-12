@@ -1,6 +1,6 @@
 <?php
 
-namespace HTL3R\FlagStore\FlagTypes;
+namespace HTL3R\Flags\FlagTypes;
 
 /**
  * Class Flag

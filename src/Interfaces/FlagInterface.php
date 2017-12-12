@@ -1,6 +1,6 @@
 <?php
 
-namespace HTL3R\Flagstore\Interfaces;
+namespace HTL3R\Flags\Interfaces;
 
 /**
 * Interface FlagInterface
